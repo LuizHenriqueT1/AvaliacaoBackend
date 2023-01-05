@@ -1,7 +1,5 @@
     1. Durante a implementação de uma nova funcionalidade de software solicitada, quais critérios você avalia e implementa para garantia de qualidade de software?
-    Resposta: Para garantir a qualidade se software é necessário avaliar se o código está limpo e verificar se os requisitos estão corretos. Para garantir se estão certos podemos 
-    usar os testes de software. 
+    Resposta: Para garantir a qualidade se software é necessário avaliar se o código está limpo e verificar se os requisitos estão corretos. Para garantir se estão certos podemos usar os testes de software. 
 
     2. Em qual etapa da implementação você considera a qualidade de software?
-	Resposta: A qualidade de software começa nos  levantamentos dos requisitos, garantir que as funcionalidades estão corretas, clean code que gera a facilidade de manutenção, 
-    manter os dados seguros e facilitar a usabilidade do cliente.
+	Resposta: A qualidade de software começa nos  levantamentos dos requisitos, garantir que as funcionalidades estão corretas, clean code que gera a facilidade de manutenção, manter os dados seguros e facilitar a usabilidade do cliente.
